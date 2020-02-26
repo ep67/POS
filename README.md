@@ -10,6 +10,11 @@
 ## Dokumentasi
 
 
+## Feature Soon
+
+- Kurir
+- Mobile Apps
+- Desktop Apps
 
 ## License
 
